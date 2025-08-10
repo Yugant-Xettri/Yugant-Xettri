@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&size=25&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hey+there,;I+am+Yugant+Xettri...;A+shadow+moving+through+lines+of+fate.;Crafting+worlds+with+every+line.;JavaScript,+React,+Node,+Next+%E2%80%94+my+tools.;MongoDB,+Supabase,+cloud-bound+power.python. +scraping+and+APIs+in+my+grasp.;Quietly+shaping+code,+one+step+at+a+time. ">
+  <img src="https://readme-typing-svg.demolab.com/?font=Architects+Daughter&size=25&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Hey+there,;I+am+Yugant+Xettri...;A+shadow+moving+through+lines+of+fate.;Crafting+worlds+with+every+line.;JavaScript,+React,+Node,+Next+%E2%80%94+my+tools.;MongoDB,+Supabase,+cloud-bound+power.python+scraping+and+APIs+in+my+grasp.;Quietly+shaping+code,+one+step+at+a+time. ">
 </h1>
 
 <div align="center">
